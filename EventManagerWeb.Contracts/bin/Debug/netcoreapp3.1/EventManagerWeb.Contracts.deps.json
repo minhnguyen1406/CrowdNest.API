@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EventManagerWeb.Contracts/1.0.0": {
+        "dependencies": {
+          "EventManagerWeb.Entity": "1.0.0"
+        },
+        "runtime": {
+          "EventManagerWeb.Contracts.dll": {}
+        }
+      },
+      "EventManagerWeb.Entity/1.0.0": {
+        "runtime": {
+          "EventManagerWeb.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EventManagerWeb.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EventManagerWeb.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

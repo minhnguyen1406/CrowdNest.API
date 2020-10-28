@@ -1,0 +1,32 @@
+﻿CREATE database EventManagerDb
+
+USE EventManagerDb
+
+CREATE TABLE Users(
+Id INT IDENTITY PRIMARY KEY,
+Username NVARCHAR(100), 
+[Password] NVARCHAR(100),
+FirstName NVARCHAR(100),
+LastName NVARCHAR(100),
+Email NVARCHAR(100),
+Mobile NVARCHAR(100)
+)
+
+
+
+CREATE TABLE Events(
+Id INT IDENTITY PRIMARY KEY,
+Title NVARCHAR(100),
+[ShortDescription] NVARCHAR(100), 
+[LongDescription] NVARCHAR(MAX),
+PublishedDate DATETIME2,
+IsPublished BIT,
+IsActive BIT,
+DateCreated DATETIME2,
+UserId INT FOREIGN KEY REFERENCES Users(Id)
+)
+
+
+select * from Events
+select * from Users
+

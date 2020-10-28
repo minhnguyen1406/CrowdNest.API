@@ -1,0 +1,28 @@
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.deps.json
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.dll
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.csprojAssemblyReference.cache
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.AssemblyInfo.cs
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.pdb
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.Contracts.dll
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.Entity.dll
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.Contracts.pdb
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.Entity.pdb
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.csproj.CopyComplete
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.dll
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.pdb
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.deps.json
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.dll
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.pdb
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.Contracts.dll
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.Entity.dll
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.Contracts.pdb
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\bin\Debug\netcoreapp3.1\EventManagerWeb.Entity.pdb
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.csprojAssemblyReference.cache
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.AssemblyInfo.cs
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.csproj.CopyComplete
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.dll
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.DataAccess\obj\Debug\netcoreapp3.1\EventManagerWeb.DataAccess.pdb

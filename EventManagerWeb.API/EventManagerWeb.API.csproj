@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.API\EventManagerWeb.API.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.8" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EventManagerWeb.Business\EventManagerWeb.Business.csproj" />
+    <ProjectReference Include="..\EventManagerWeb.Contracts\EventManagerWeb.Contracts.csproj" />
+    <ProjectReference Include="..\EventManagerWeb.DataAccess\EventManagerWeb.DataAccess.csproj" />
+    <ProjectReference Include="..\EventManagerWeb.Entity\EventManagerWeb.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

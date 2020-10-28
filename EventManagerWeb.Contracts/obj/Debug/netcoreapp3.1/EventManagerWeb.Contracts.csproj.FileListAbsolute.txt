@@ -1,0 +1,24 @@
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.Contracts\bin\Debug\netcoreapp3.1\EventManagerWeb.Contracts.deps.json
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.Contracts\bin\Debug\netcoreapp3.1\EventManagerWeb.Contracts.dll
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.Contracts\bin\Debug\netcoreapp3.1\EventManagerWeb.Contracts.pdb
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.Contracts\bin\Debug\netcoreapp3.1\EventManagerWeb.Entity.dll
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.Contracts\bin\Debug\netcoreapp3.1\EventManagerWeb.Entity.pdb
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.csprojAssemblyReference.cache
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.AssemblyInfoInputs.cache
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.AssemblyInfo.cs
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.csproj.CopyComplete
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.dll
+C:\Users\ntm14\Documents\GitHub\Team-A\Minh's workspace\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.pdb
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.Contracts\bin\Debug\netcoreapp3.1\EventManagerWeb.Contracts.deps.json
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.Contracts\bin\Debug\netcoreapp3.1\EventManagerWeb.Contracts.dll
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.Contracts\bin\Debug\netcoreapp3.1\EventManagerWeb.Contracts.pdb
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.Contracts\bin\Debug\netcoreapp3.1\EventManagerWeb.Entity.dll
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.Contracts\bin\Debug\netcoreapp3.1\EventManagerWeb.Entity.pdb
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.csprojAssemblyReference.cache
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.AssemblyInfoInputs.cache
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.AssemblyInfo.cs
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.csproj.CopyComplete
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.dll
+C:\Users\ntm14\Documents\GitHub\EventManagerWeb.API\EventManagerWeb.Contracts\obj\Debug\netcoreapp3.1\EventManagerWeb.Contracts.pdb
