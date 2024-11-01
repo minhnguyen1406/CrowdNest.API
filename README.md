@@ -1,2 +1,2 @@
-# EventManagerWeb.API
-Event Manager RESTful API
+# CrowdNest.API
+CrowdNest RESTful API
